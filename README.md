@@ -1,3 +1,8 @@
+## 📌 Pins:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaileyLeong&repo=poke-party-hackathon&show_owner=true&theme=neon)](https://github.com/BaileyLeong/poke-party-hackathon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amirgholizad&repo=instant-innovators-server&show_owner=true&theme=neon)](https://github.com/amirgholizad/instant-innovators-server)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bailey-leong)
