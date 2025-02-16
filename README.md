@@ -74,7 +74,17 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=BaileyLeong&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<picture>
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=BaileyLeong&limit=5&theme=neon&combine_all_yearly_contributions=true#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-contributor-stats.vercel.app/api?username=BaileyLeong&limit=5&theme=catpuccin-latte&combine_all_yearly_contributions=true#gh-light-mode-only"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?user=BaileyLeong&show_icons=true" />
+</picture>
 
 ---
 
