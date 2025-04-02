@@ -1,5 +1,7 @@
-## 🌐 Socials:
+## 🌐 Find Me Here:
 
+[![UpWork](https://img.shields.io/badge/upwork-grey?style=for-the-badge&logo=upwork
+)](https://www.upwork.com/freelancers/~0182353d21747d45cb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/bailey-leong)
 [![Portfolio](https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=googlechrome
 )](https://www.baileyleong.com)
