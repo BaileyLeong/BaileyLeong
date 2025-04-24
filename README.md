@@ -48,11 +48,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats-pink-eight.vercel.app?user=BaileyLeong&theme=neon&hide_border=false#gh-dark-mode-only"
+    srcset="https://github-readme-streak-stats.vercel.app?user=BaileyLeong&theme=neon&hide_border=false#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats-pink-eight.vercel.app?user=BaileyLeong&theme=catppuccin-latte#gh-light-mode-only"
+    srcset="https://github-readme-streak-stats.vercel.app?user=BaileyLeong&theme=catppuccin-latte#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?user=BaileyLeong&show_icons=true" />
@@ -60,11 +60,11 @@
 <br/>
 <picture>
   <source
-    srcset="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&count_private=true&layout=compact#gh-light-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&count_private=true&layout=compact#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?user=BaileyLeong&show_icons=true" />
