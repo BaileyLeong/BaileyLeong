@@ -43,22 +43,12 @@
 
 # 📊 GitHub Stats:
 
+[![GitHub Streak](https://github-readme-streak-stats-pink-eight.vercel.app?user=BaileyLeong&theme=omni&short_numbers=true&hide_current_streak=true)](https://git.io/streak-stats)
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats-pink-eight.vercel.app?user=BaileyLeong&theme=neon&hide_border=false#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats-pink-eight.vercel.app?user=BaileyLeong&theme=catppuccin-latte#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-baileyleongs-projects.vercel.app/api?user=BaileyLeong&show_icons=true" />
-</picture>
 <br/>
 <picture>
   <source
-    srcset="https://github-readme-streak-stats-pink-eight.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
+    srcset="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
