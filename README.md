@@ -43,9 +43,6 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats-pink-eight.vercel.app?user=BaileyLeong&theme=omni&short_numbers=true&hide_current_streak=true)](https://git.io/streak-stats)
-
-<br/>
 <picture>
   <source
     srcset="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
