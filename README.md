@@ -58,7 +58,7 @@
 <br/>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
+    srcset="https://github-readme-streak-stats-pink-eight.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
