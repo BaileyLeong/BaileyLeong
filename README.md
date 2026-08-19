@@ -41,4 +41,4 @@ I like building things that make sense to the people using them.
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-baileyleongs-projects.vercel.app/api?username=BaileyLeong&theme=neon&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="Bailey's GitHub stats" /> <img src="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact&langs_count=6" alt="Bailey's most used languages" />
+<img src="github-metrics.svg" alt="Bailey's GitHub metrics" />
