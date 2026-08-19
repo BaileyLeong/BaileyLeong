@@ -41,14 +41,6 @@ I like building things that make sense to the people using them.
 
 ## 📊 GitHub Stats:
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&count_private=true&layout=compact#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-baileyleongs-projects.vercel.app/api?username=BaileyLeong&show_icons=true" />
-</picture>
+<img src="https://github-readme-stats-baileyleongs-projects.vercel.app/api?username=BaileyLeong&theme=neon&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="Bailey's GitHub stats" />
+
+<img src="https://github-readme-stats-baileyleongs-projects.vercel.app/api/top-langs/?username=BaileyLeong&theme=neon&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=github-readme-streak-stats&layout=compact" alt="Bailey's most used languages" />
