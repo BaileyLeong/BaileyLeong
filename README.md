@@ -1,6 +1,6 @@
 # Hi, I'm Bailey 👋
 
-I'm a software developer and data engineering consultant at Data Loft, where I build Snowflake pipelines, write dbt models, and debug production data issues for analytics clients. Before this I spent three years at Shopify solving merchant problems — and building tools to automate the annoying parts, which is how I ended up here.
+I'm a software developer and data engineering consultant at Data Loft, where I build Snowflake pipelines, write dbt models, and debug production data issues for analytics clients. Before this I spent three years at Shopify solving merchant problems, and started building tools to automate the annoying parts, which is how I ended up here.
 
 I like building things that make sense to the people using them.
 
@@ -31,7 +31,7 @@ I like building things that make sense to the people using them.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ### Game Dev & 3D
-![Phaser](https://img.shields.io/badge/Phaser_3-99c3e5?style=flat&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser_3-99c3e5?style=flat&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)  
 
 ### E-Commerce
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white) ![Liquid](https://img.shields.io/badge/Liquid-0A0A0A?style=flat&logo=shopify&logoColor=white)
